@@ -1,0 +1,12 @@
+{
+  "type": "cert-push",
+  "actor": "TI-ULA-SIGNER (A©тor Macheret)",
+  "email": "arhiv1973b@outlook.com",
+  "certificate_url": "https://github.com/arhiv1973b/TI-ULA-Core/blob/main/secure_certs/Will-Cert-A©t.yaml",
+  "signature_url": "https://github.com/arhiv1973b/TI-ULA-Core/blob/main/secure_certs/TI-ULA-Will.asc",
+  "hash": "CF28747F588D11849CB41613AF496672D39673C73C71E2482CF3528AB1A4983B",
+  "timestamp": "2025-06-07T10:51:13Z",
+  "registry": "signing_registry.yaml",
+  "method": "GPG",
+  "repository": "TI-ULA-Core"
+}

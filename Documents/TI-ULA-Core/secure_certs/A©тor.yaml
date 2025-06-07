@@ -1,0 +1,11 @@
+---
+TI-ULA-Actor:
+  identifier: TI-ULA-SIGNER
+  name: "A©тor Macheret"
+  email: "arhiv1973b@outlook.com"
+  cert_file: "Will-Cert-A©t.yaml"
+  signature_file: "TI-ULA-Will.asc"
+  verified: true
+  published: true
+  timestamp: "2025-06-07T10:51:14Z"
+---
