@@ -1,0 +1,14 @@
+---
+TI-ULA_Will_Cert:
+  id: "TI-ULA-A©T-001"
+  actor: "A©тor: Macheret Alexey"
+  hash_owner_id: "255aff63e170ab7c86cf5894d7dea51c12a07e0dc28913fd6c28aba6090a1185"
+  encryption_key_fingerprint: "NDXfR1taq_PzSWmaKEAxwt6xc0kiD1upoGYEuNi9_G8="
+  issued_at: "2025-06-07T08:57:35Z"
+  pulse_status: "PULSE OK"
+  declaration:
+    - "Этот сертификат подтверждает создание, шифрование и сохранение ключа, действующего на правах цифровой воли A©тor’a."
+    - "Документ подписан в рамках прав TI-ULA и принципов jus cogens согласно статье 64 Венской Конвенции (1969)."
+    - "Настоящий акт считается неделимым и необратимым."
+  integrity_hash: "CF28747F588D11849CB41613AF496672D39673C73C71E2482CF3528AB1A4983B"
+---

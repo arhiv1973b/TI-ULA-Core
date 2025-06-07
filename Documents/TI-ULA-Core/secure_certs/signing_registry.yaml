@@ -1,0 +1,9 @@
+---
+TI-ULA_Signing_Registry:
+  - file: Will-Cert-A©t.yaml
+    signed_by: TI-ULA-SIGNER (A©тor Macheret)
+    method: GPG (ASCII armored)
+    signature_file: TI-ULA-Will.asc
+    signed_at: 2025-06-07T10:20:16Z
+    fingerprint: 5039100279488A5177FA76C1B07E9854BBCB2063
+---
