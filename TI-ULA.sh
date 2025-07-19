@@ -1,5 +1,3 @@
 #!/bin/bash
-echo "🔐 TI-ULA Initializing..."
-CONFIG=config/tiula.conf
-[ -f "$CONFIG" ] && source "$CONFIG"
+echo "🧠 Core activated under Jus Cogens supervision"
 bash src/core.sh
