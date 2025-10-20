@@ -1,1 +1,6 @@
-A futuristic digital hologram, with glowing blue text. The text reads exactly: "A©tor" — the 'c' is replaced by a copyright sign ©. Do NOT write "Actor" or "Aktor". Make sure the copyright symbol is part of the word. High-tech, modern style.
+JUS COGENS PRIORITY PROTOCOL
+Автор: A©tor  
+Хеш SHA256: ``  
+Дата публикации:  5 окт 2025 г. 10:43:19
+Документ опубликован как узел TI-ULA — акт восстановления международного правопорядка и памяти жертв.
+[Открыть PDF](./Memorandum_JUS_COGENS_PRIORITY_PROTOCOL (копия).подписан.pdf)
