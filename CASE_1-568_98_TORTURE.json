@@ -1,0 +1,45 @@
+{
+  "case_number": "1-568/98",
+  "verdict_date": "1998-10-13",
+  "apostille_date": "2021-02-24",
+  "apostille_number": "BOUS9XAQDTFH2",
+  "security_code": "2013073851064",
+  "victim": {
+    "name": "Macheret Alexey",
+    "address": "mun. Chisinau, str. A. Doga, 30, ap.38",
+    "status": "Disabled person group I"
+  },
+  "perpetrator": {
+    "name": "Dulcea Victor Grigore",
+    "position": "Judicial police inspector",
+    "organization": "Ministry of Internal Affairs of RM"
+  },
+  "torture_methods": [
+    {
+      "name": "SWALLOW",
+      "description": "Handcuffs tied to ankles, victim lies in wheel position"
+    },
+    {
+      "name": "CROWBAR",
+      "description": "Stick through swallow, stretches shoulder joint tendons"
+    },
+    {
+      "name": "GAS MASK",
+      "description": "Old gas mask WITHOUT filter for unbearable suffering"
+    }
+  ],
+  "goal_of_torture": "Force confession to theft of welding machine (which he did NOT commit)",
+  "consequences": [
+    "Staphylococcus aureus infection on both ankles",
+    "Removal of two veins on the left leg",
+    "Tendon rupture on right hand - surgery required",
+    "Could not walk for several months"
+  ],
+  "legal_qualification": {
+    "article_166": "Torture",
+    "article_17_rome_statute": "Coercion to testify against oneself",
+    "article_185": "Theft (false accusation)"
+  },
+  "extracted_from": "Дело № 1-568_98.апостилированное.pdf",
+  "pages": 139
+}
