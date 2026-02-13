@@ -1,0 +1,25 @@
+{
+  "case_number": "1-272/03",
+  "verdict_date": "2003-02-21",
+  "apostille_date": "2021-07-21",
+  "apostille_number": "SIGOS0ASHYEME",
+  "security_code": "2013073998714",
+  "victim": {
+    "name": "Macheret Alexei Artur",
+    "dob": "1973-06-23",
+    "address": "mun. Chisinau, str. A. Doga, 30, ap.38",
+    "status": "Disabled person group I"
+  },
+  "charge": "Art.225 part 1 Criminal Code of RM (theft)",
+  "sentence": "2 years imprisonment (suspended)",
+  "connection_to_case_1-568/98": "This case was fabricated to hide the torture verdict from case 1-568/98",
+  "article_17_violations": [
+    "Not informing victim about case 1-568/98",
+    "Retroactive firing of torturer Dulcha",
+    "Hiding torture verdict",
+    "Persecuting victim knowing he knows nothing",
+    "Evidence falsification - criminals as witnesses",
+    "No rehabilitation for torture victims"
+  ],
+  "extracted_from": "Дело № 1-272_03 в Апеляционную Палату .pdf"
+}
